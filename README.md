@@ -18,5 +18,5 @@
 * cd crack
 
 # Run Script!
-* python2 crack.py
+* python2 hackpro.py
 
